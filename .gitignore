@@ -1,1 +1,3 @@
-questions.md
+*questions.md
+*.DS_Store
+*src/.DS_Store
