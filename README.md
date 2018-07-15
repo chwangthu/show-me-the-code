@@ -5,3 +5,5 @@ Many questions are from https://github.com/Show-Me-the-Code/show-me-the-code/blo
 
 - **0x00:** Add a number in your avatar.
 - **0x01:** Try to generate 100 coupons.
+- **0x03:** Login using requests module
+- **0x04:** Login the webpage using selenium.
