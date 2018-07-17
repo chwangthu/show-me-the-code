@@ -7,3 +7,4 @@ Many questions are from https://github.com/Show-Me-the-Code/show-me-the-code/blo
 - **0x01:** Try to generate 100 coupons.
 - **0x03:** Login using requests module
 - **0x04:** Login the webpage using selenium.
+- **0x05** Save the coupons generated in 0x01 in **MySQL**.

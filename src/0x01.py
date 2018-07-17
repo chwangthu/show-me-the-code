@@ -26,5 +26,9 @@ def get_specify_number_coupons(num=100):
 
 if __name__ == "__main__":
     result = get_specify_number_coupons()
-    print(result)
+    f = open("../static/coupons", 'w')
+
+    for item in result:
+        f.write(item + '\n')
+    # print(result)
     
